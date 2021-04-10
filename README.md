@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roops AKA Rupa Khadka
+- ✌ I’m interested in learning new things and am a FOODIE! 🍛🍔🍕
+- 📖 I’m currently studying Bachelor in Software Engineering
