@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rupa Khadka
-- ✌ I’m interested in learning new things and am a FOODIE! 🍛🍔🍕
-- 📖 I’m currently studying Bachelor in Software Engineering at NCIT.
+- ✌ I’m interested in learning new things
+-  📖 I’m currently studying Bachelor in Software Engineering at NCIT.
